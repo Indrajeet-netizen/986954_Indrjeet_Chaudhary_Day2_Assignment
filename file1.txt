@@ -1,1 +1,1 @@
-Devops is great. Updated from branch1
+Devops is great. Updated from branch1 and merged from branch2 -- merged conflict.
